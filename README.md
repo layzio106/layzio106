@@ -4,6 +4,6 @@
 <hr>
 <p></p>
 <h1>My Coding <h1>
-  <img src="http://img.shields.io/badge/javascript-#1ba0f4?style=flat-square"/>
+  <img src="http://img.shields.io/badge/javascript-#1ba0f4?style=flat-square&logo=javascript&logocolor=black"/>
   
   
